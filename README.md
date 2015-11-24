@@ -1,8 +1,12 @@
 # spider4kindle
 
+crawl news from website and convert it to .mobi for Kindle
+
+Currenly, it crawl cnbeta.com
+
 ```
 apt-get install python-pip
-apt-get install python-dev // Python.h
+apt-get install python-dev 
 apt-get install libxml2-dev libxslt-dev
 apt-get install python-lxml 
 
